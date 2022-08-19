@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+bin/Debug/net6.0/Example001_HelloConsole.dll
+bin/Debug/net6.0/Example001_HelloConsole.pdb
+obj/Debug/net6.0/Example001_HelloConsole.dll
+obj/Debug/net6.0/Example001_HelloConsole.pdb
